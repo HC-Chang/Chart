@@ -17,3 +17,10 @@ This is a template to make animation by ipywidgets and plotly.
 - pandas
 - numpy
 
+---
+## Application
+
+- Ship Movement Simulation
+
+![flow_chart_sim_ship](data/sim_ship.png)
+![sim_ship](data/ship.gif)
